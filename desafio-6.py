@@ -1,4 +1,4 @@
-print("Olá! 👋 Bem-vindo ao conversor de tempo!")
+print("Olá! Bem-vindo ao conversor de tempo!")
 
 def segundos_para_hms(segundos):
     horas = segundos // 3600
